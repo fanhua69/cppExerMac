@@ -6,10 +6,243 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXFileReference section */
+		F3187A8A28E1902400E111BE /* test.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test.cpp; sourceTree = "<group>"; };
+		F3187A8B28E1906900E111BE /* clonelist.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = clonelist.cpp; sourceTree = "<group>"; };
+		F3187A8C28E1906900E111BE /* constructorinheritance.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = constructorinheritance.cpp; sourceTree = "<group>"; };
+		F3187A8D28E1906900E111BE /* commandpattern.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = commandpattern.cpp; sourceTree = "<group>"; };
+		F3187A8E28E1906900E111BE /* findMinSpanTreePrim.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = findMinSpanTreePrim.cpp; sourceTree = "<group>"; };
+		F3187A8F28E1906900E111BE /* destructor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = destructor.cpp; sourceTree = "<group>"; };
+		F3187A9028E1906900E111BE /* alignment2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alignment2.cpp; sourceTree = "<group>"; };
+		F3187A9128E1906900E111BE /* FlipStringToMonoInc.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FlipStringToMonoInc.cpp; sourceTree = "<group>"; };
+		F3187A9228E1906900E111BE /* balancearray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = balancearray.cpp; sourceTree = "<group>"; };
+		F3187A9328E1906900E111BE /* doublelist.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = doublelist.cpp; sourceTree = "<group>"; };
+		F3187A9428E1906900E111BE /* graph.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = graph.h; sourceTree = "<group>"; };
+		F3187A9528E1906900E111BE /* attributeconst.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = attributeconst.cpp; sourceTree = "<group>"; };
+		F3187A9628E1906900E111BE /* gotoconsideredharmful.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = gotoconsideredharmful.cpp; sourceTree = "<group>"; };
+		F3187A9728E1906900E111BE /* Fabnaccii.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Fabnaccii.cpp; sourceTree = "<group>"; };
+		F3187A9828E1906900E111BE /* bitoper.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bitoper.cpp; sourceTree = "<group>"; };
+		F3187A9928E1906900E111BE /* equalrange.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = equalrange.cpp; sourceTree = "<group>"; };
+		F3187A9A28E1906900E111BE /* future.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = future.cpp; sourceTree = "<group>"; };
+		F3187A9B28E1906900E111BE /* constcast.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = constcast.cpp; sourceTree = "<group>"; };
+		F3187A9C28E1906900E111BE /* DefaulTempalteArgument.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DefaulTempalteArgument.cpp; sourceTree = "<group>"; };
+		F3187A9D28E1906900E111BE /* binarygap.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = binarygap.cpp; sourceTree = "<group>"; };
+		F3187A9E28E1906900E111BE /* findfirstsinglechar.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = findfirstsinglechar.cpp; sourceTree = "<group>"; };
+		F3187A9F28E1906A00E111BE /* binaryfunction2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = binaryfunction2.cpp; sourceTree = "<group>"; };
+		F3187AA028E1906A00E111BE /* graphmaxflow.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = graphmaxflow.cpp; sourceTree = "<group>"; };
+		F3187AA128E1906A00E111BE /* collectdata.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = collectdata.cpp; sourceTree = "<group>"; };
+		F3187AA228E1906A00E111BE /* find2indexesforasum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = find2indexesforasum.cpp; sourceTree = "<group>"; };
+		F3187AA328E1906A00E111BE /* constantexpr.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = constantexpr.h; sourceTree = "<group>"; };
+		F3187AA428E1906A00E111BE /* exception.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = exception.cpp; sourceTree = "<group>"; };
+		F3187AA528E1906A00E111BE /* foreach.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = foreach.cpp; sourceTree = "<group>"; };
+		F3187AA628E1906A00E111BE /* commonmemserver.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = commonmemserver.cpp; sourceTree = "<group>"; };
+		F3187AA728E1906A00E111BE /* dijkstra.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dijkstra.cpp; sourceTree = "<group>"; };
+		F3187AA828E1906A00E111BE /* graphBreadth.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = graphBreadth.cpp; sourceTree = "<group>"; };
+		F3187AA928E1906A00E111BE /* copyconstruction.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = copyconstruction.cpp; sourceTree = "<group>"; };
+		F3187AAA28E1906A00E111BE /* constructor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = constructor.cpp; sourceTree = "<group>"; };
+		F3187AAB28E1906A00E111BE /* constwithcondition.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = constwithcondition.cpp; sourceTree = "<group>"; };
+		F3187AAC28E1906A00E111BE /* findAPathInRoom.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = findAPathInRoom.cpp; sourceTree = "<group>"; };
+		F3187AAD28E1906A00E111BE /* decltypemain.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = decltypemain.cpp; sourceTree = "<group>"; };
+		F3187AAE28E1906A00E111BE /* elaboratedtypespecifier.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = elaboratedtypespecifier.cpp; sourceTree = "<group>"; };
+		F3187AAF28E1906A00E111BE /* adjacent_find.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = adjacent_find.cpp; sourceTree = "<group>"; };
+		F3187AB028E1906A00E111BE /* autotypededuction.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = autotypededuction.cpp; sourceTree = "<group>"; };
+		F3187AB128E1906A00E111BE /* constmember.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = constmember.cpp; sourceTree = "<group>"; };
+		F3187AB228E1906A00E111BE /* delegateconstruction.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = delegateconstruction.cpp; sourceTree = "<group>"; };
+		F3187AB328E1906A00E111BE /* alignas.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alignas.cpp; sourceTree = "<group>"; };
+		F3187AB428E1906A00E111BE /* boostany.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boostany.cpp; sourceTree = "<group>"; };
+		F3187AB528E1906A00E111BE /* constMember.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = constMember.h; sourceTree = "<group>"; };
+		F3187AB628E1906A00E111BE /* DynMatch.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DynMatch.cpp; sourceTree = "<group>"; };
+		F3187AB728E1906A00E111BE /* adjacent_difference.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = adjacent_difference.cpp; sourceTree = "<group>"; };
+		F3187AB828E1906A00E111BE /* graphcolor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = graphcolor.cpp; sourceTree = "<group>"; };
+		F3187AB928E1906A00E111BE /* graphcreation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = graphcreation.h; sourceTree = "<group>"; };
+		F3187ABA28E1906A00E111BE /* bitoperation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bitoperation.cpp; sourceTree = "<group>"; };
+		F3187ABB28E1906A00E111BE /* dynamiccast2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dynamiccast2.cpp; sourceTree = "<group>"; };
+		F3187ABC28E1906A00E111BE /* balancedSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = balancedSum.cpp; sourceTree = "<group>"; };
+		F3187ABD28E1906A00E111BE /* calldestructor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = calldestructor.cpp; sourceTree = "<group>"; };
+		F3187ABE28E1906A00E111BE /* futureAnsPromise2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = futureAnsPromise2.cpp; sourceTree = "<group>"; };
+		F3187ABF28E1906A00E111BE /* findLongestCommonSubsequence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = findLongestCommonSubsequence.cpp; sourceTree = "<group>"; };
+		F3187AC028E1906A00E111BE /* construction.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = construction.cpp; sourceTree = "<group>"; };
+		F3187AC128E1906A00E111BE /* graphTopologicalSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = graphTopologicalSort.cpp; sourceTree = "<group>"; };
+		F3187AC228E1906A00E111BE /* futureAndPromise.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = futureAndPromise.cpp; sourceTree = "<group>"; };
+		F3187AC328E1906A00E111BE /* harrypotterclass.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = harrypotterclass.cpp; sourceTree = "<group>"; };
+		F3187AC428E1906A00E111BE /* dynamiccast.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dynamiccast.cpp; sourceTree = "<group>"; };
+		F3187AC528E1906A00E111BE /* graph.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = graph.cpp; sourceTree = "<group>"; };
+		F3187AC628E1906A00E111BE /* foreach2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = foreach2.cpp; sourceTree = "<group>"; };
+		F3187AC728E1906A00E111BE /* aamain.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = aamain.cpp; sourceTree = "<group>"; };
+		F3187AC828E1906A00E111BE /* BTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BTree.cpp; sourceTree = "<group>"; };
+		F3187AC928E1906B00E111BE /* addsame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = addsame.cpp; sourceTree = "<group>"; };
+		F3187ACA28E1906B00E111BE /* findShortestCut.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = findShortestCut.cpp; sourceTree = "<group>"; };
+		F3187ACB28E1906B00E111BE /* enableif.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = enableif.cpp; sourceTree = "<group>"; };
+		F3187ACC28E1906B00E111BE /* binary_function.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = binary_function.cpp; sourceTree = "<group>"; };
+		F3187ACD28E1906B00E111BE /* functionpar.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = functionpar.cpp; sourceTree = "<group>"; };
+		F3187ACE28E1906B00E111BE /* hashtest.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = hashtest.cpp; sourceTree = "<group>"; };
+		F3187ACF28E1906B00E111BE /* alignstorage.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alignstorage.cpp; sourceTree = "<group>"; };
+		F3187AD028E1906B00E111BE /* functionpointer2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = functionpointer2.cpp; sourceTree = "<group>"; };
+		F3187AD128E1906B00E111BE /* checkbst.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = checkbst.cpp; sourceTree = "<group>"; };
+		F3187AD228E1906B00E111BE /* chessGeneral.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = chessGeneral.cpp; sourceTree = "<group>"; };
+		F3187AD328E1906B00E111BE /* findAllRoutes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = findAllRoutes.cpp; sourceTree = "<group>"; };
+		F3187AD428E1906B00E111BE /* functiontype.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = functiontype.cpp; sourceTree = "<group>"; };
+		F3187AD528E1906B00E111BE /* constantexpr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = constantexpr.cpp; sourceTree = "<group>"; };
+		F3187AD628E1906B00E111BE /* classtemplate.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = classtemplate.cpp; sourceTree = "<group>"; };
+		F3187AD728E1906B00E111BE /* auto_ptr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = auto_ptr.cpp; sourceTree = "<group>"; };
+		F3187AD828E1906B00E111BE /* checkloopinlist.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = checkloopinlist.cpp; sourceTree = "<group>"; };
+		F3187AD928E1906B00E111BE /* constarray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = constarray.cpp; sourceTree = "<group>"; };
+		F3187ADA28E1906B00E111BE /* functortemplate.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = functortemplate.cpp; sourceTree = "<group>"; };
+		F3187ADB28E1906B00E111BE /* findMedianOfStream.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = findMedianOfStream.cpp; sourceTree = "<group>"; };
+		F3187ADC28E1906B00E111BE /* hannoi.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = hannoi.cpp; sourceTree = "<group>"; };
+		F3187ADD28E1906B00E111BE /* functor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = functor.cpp; sourceTree = "<group>"; };
+		F3187ADE28E1906B00E111BE /* findMinSpanTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = findMinSpanTree.cpp; sourceTree = "<group>"; };
+		F3187ADF28E1906B00E111BE /* datagroup.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = datagroup.cpp; sourceTree = "<group>"; };
+		F3187AE028E1906B00E111BE /* brickgrid.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = brickgrid.cpp; sourceTree = "<group>"; };
+		F3187AE128E1906B00E111BE /* anonymousunion.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = anonymousunion.cpp; sourceTree = "<group>"; };
+		F3187AE228E1906B00E111BE /* floydshortestdistance.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = floydshortestdistance.cpp; sourceTree = "<group>"; };
+		F3187AE328E1906B00E111BE /* absort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = absort.cpp; sourceTree = "<group>"; };
+		F3187AE428E1906B00E111BE /* argv.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = argv.cpp; sourceTree = "<group>"; };
+		F3187AE528E1906B00E111BE /* constanttemplate.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = constanttemplate.cpp; sourceTree = "<group>"; };
+		F3187AE628E1906B00E111BE /* findmsbofinteger.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = findmsbofinteger.cpp; sourceTree = "<group>"; };
+		F3187AE728E1906B00E111BE /* findAllPathsInARoom.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = findAllPathsInARoom.cpp; sourceTree = "<group>"; };
+		F3187AE828E1906B00E111BE /* explicitoperator.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = explicitoperator.cpp; sourceTree = "<group>"; };
+		F3187AE928E1906B00E111BE /* conststaticmember.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = conststaticmember.cpp; sourceTree = "<group>"; };
+		F3187AEA28E1906B00E111BE /* depthlevellist.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = depthlevellist.cpp; sourceTree = "<group>"; };
+		F3187AEB28E1906B00E111BE /* FindSmallestSuperString2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FindSmallestSuperString2.cpp; sourceTree = "<group>"; };
+		F3187AEC28E1906B00E111BE /* constmain.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = constmain.cpp; sourceTree = "<group>"; };
+		F3187AED28E1906B00E111BE /* globalvalue.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = globalvalue.cpp; sourceTree = "<group>"; };
+		F3187AEE28E1906B00E111BE /* findMedianOfStreamWithMultiSet.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = findMedianOfStreamWithMultiSet.cpp; sourceTree = "<group>"; };
+		F3187AEF28E1906B00E111BE /* FindSmallestSuperString.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FindSmallestSuperString.cpp; sourceTree = "<group>"; };
+		F3187AF028E1906B00E111BE /* Dijkstra2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Dijkstra2.cpp; sourceTree = "<group>"; };
+		F3187AF128E1906B00E111BE /* eightqueens.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = eightqueens.cpp; sourceTree = "<group>"; };
+		F3187AF228E1906B00E111BE /* functor2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = functor2.cpp; sourceTree = "<group>"; };
+		F3187AF328E1906C00E111BE /* accumulate.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = accumulate.cpp; sourceTree = "<group>"; };
+		F3187AF428E1906C00E111BE /* compl.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = compl.cpp; sourceTree = "<group>"; };
+		F3187AF528E1906C00E111BE /* findLCE.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = findLCE.cpp; sourceTree = "<group>"; };
+		F3187AF628E1906C00E111BE /* concatenator.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = concatenator.cpp; sourceTree = "<group>"; };
+		F3187AF728E1906C00E111BE /* findFirstMissingInteger.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = findFirstMissingInteger.cpp; sourceTree = "<group>"; };
+		F3187AF828E1906C00E111BE /* findLongestSubsequence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = findLongestSubsequence.cpp; sourceTree = "<group>"; };
+		F3187AF928E1906C00E111BE /* datachange.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = datachange.cpp; sourceTree = "<group>"; };
+		F3187AFA28E1906C00E111BE /* binding.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = binding.cpp; sourceTree = "<group>"; };
+		F3187AFB28E1906C00E111BE /* graphcreation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = graphcreation.cpp; sourceTree = "<group>"; };
+		F3187AFC28E1906C00E111BE /* classinclass.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = classinclass.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		F3187A8328E18EF500E111BE = {
 			isa = PBXGroup;
 			children = (
+				F3187AC728E1906A00E111BE /* aamain.cpp */,
+				F3187AE328E1906B00E111BE /* absort.cpp */,
+				F3187AF328E1906C00E111BE /* accumulate.cpp */,
+				F3187AC928E1906B00E111BE /* addsame.cpp */,
+				F3187AB728E1906A00E111BE /* adjacent_difference.cpp */,
+				F3187AAF28E1906A00E111BE /* adjacent_find.cpp */,
+				F3187AB328E1906A00E111BE /* alignas.cpp */,
+				F3187A9028E1906900E111BE /* alignment2.cpp */,
+				F3187ACF28E1906B00E111BE /* alignstorage.cpp */,
+				F3187AE128E1906B00E111BE /* anonymousunion.cpp */,
+				F3187AE428E1906B00E111BE /* argv.cpp */,
+				F3187A9528E1906900E111BE /* attributeconst.cpp */,
+				F3187AD728E1906B00E111BE /* auto_ptr.cpp */,
+				F3187AB028E1906A00E111BE /* autotypededuction.cpp */,
+				F3187A9228E1906900E111BE /* balancearray.cpp */,
+				F3187ABC28E1906A00E111BE /* balancedSum.cpp */,
+				F3187ACC28E1906B00E111BE /* binary_function.cpp */,
+				F3187A9F28E1906A00E111BE /* binaryfunction2.cpp */,
+				F3187A9D28E1906900E111BE /* binarygap.cpp */,
+				F3187AFA28E1906C00E111BE /* binding.cpp */,
+				F3187A9828E1906900E111BE /* bitoper.cpp */,
+				F3187ABA28E1906A00E111BE /* bitoperation.cpp */,
+				F3187AB428E1906A00E111BE /* boostany.cpp */,
+				F3187AE028E1906B00E111BE /* brickgrid.cpp */,
+				F3187AC828E1906A00E111BE /* BTree.cpp */,
+				F3187ABD28E1906A00E111BE /* calldestructor.cpp */,
+				F3187AD128E1906B00E111BE /* checkbst.cpp */,
+				F3187AD828E1906B00E111BE /* checkloopinlist.cpp */,
+				F3187AD228E1906B00E111BE /* chessGeneral.cpp */,
+				F3187AFC28E1906C00E111BE /* classinclass.cpp */,
+				F3187AD628E1906B00E111BE /* classtemplate.cpp */,
+				F3187A8B28E1906900E111BE /* clonelist.cpp */,
+				F3187AA128E1906A00E111BE /* collectdata.cpp */,
+				F3187A8D28E1906900E111BE /* commandpattern.cpp */,
+				F3187AA628E1906A00E111BE /* commonmemserver.cpp */,
+				F3187AF428E1906C00E111BE /* compl.cpp */,
+				F3187AF628E1906C00E111BE /* concatenator.cpp */,
+				F3187AD528E1906B00E111BE /* constantexpr.cpp */,
+				F3187AA328E1906A00E111BE /* constantexpr.h */,
+				F3187AE528E1906B00E111BE /* constanttemplate.cpp */,
+				F3187AD928E1906B00E111BE /* constarray.cpp */,
+				F3187A9B28E1906900E111BE /* constcast.cpp */,
+				F3187AEC28E1906B00E111BE /* constmain.cpp */,
+				F3187AB128E1906A00E111BE /* constmember.cpp */,
+				F3187AB528E1906A00E111BE /* constMember.h */,
+				F3187AC028E1906A00E111BE /* construction.cpp */,
+				F3187AAA28E1906A00E111BE /* constructor.cpp */,
+				F3187A8C28E1906900E111BE /* constructorinheritance.cpp */,
+				F3187AE928E1906B00E111BE /* conststaticmember.cpp */,
+				F3187AAB28E1906A00E111BE /* constwithcondition.cpp */,
+				F3187AA928E1906A00E111BE /* copyconstruction.cpp */,
+				F3187AF928E1906C00E111BE /* datachange.cpp */,
+				F3187ADF28E1906B00E111BE /* datagroup.cpp */,
+				F3187AAD28E1906A00E111BE /* decltypemain.cpp */,
+				F3187A9C28E1906900E111BE /* DefaulTempalteArgument.cpp */,
+				F3187AB228E1906A00E111BE /* delegateconstruction.cpp */,
+				F3187AEA28E1906B00E111BE /* depthlevellist.cpp */,
+				F3187A8F28E1906900E111BE /* destructor.cpp */,
+				F3187AA728E1906A00E111BE /* dijkstra.cpp */,
+				F3187AF028E1906B00E111BE /* Dijkstra2.cpp */,
+				F3187A9328E1906900E111BE /* doublelist.cpp */,
+				F3187AC428E1906A00E111BE /* dynamiccast.cpp */,
+				F3187ABB28E1906A00E111BE /* dynamiccast2.cpp */,
+				F3187AB628E1906A00E111BE /* DynMatch.cpp */,
+				F3187AF128E1906B00E111BE /* eightqueens.cpp */,
+				F3187AAE28E1906A00E111BE /* elaboratedtypespecifier.cpp */,
+				F3187ACB28E1906B00E111BE /* enableif.cpp */,
+				F3187A9928E1906900E111BE /* equalrange.cpp */,
+				F3187AA428E1906A00E111BE /* exception.cpp */,
+				F3187AE828E1906B00E111BE /* explicitoperator.cpp */,
+				F3187A9728E1906900E111BE /* Fabnaccii.cpp */,
+				F3187AA228E1906A00E111BE /* find2indexesforasum.cpp */,
+				F3187AE728E1906B00E111BE /* findAllPathsInARoom.cpp */,
+				F3187AD328E1906B00E111BE /* findAllRoutes.cpp */,
+				F3187AAC28E1906A00E111BE /* findAPathInRoom.cpp */,
+				F3187AF728E1906C00E111BE /* findFirstMissingInteger.cpp */,
+				F3187A9E28E1906900E111BE /* findfirstsinglechar.cpp */,
+				F3187AF528E1906C00E111BE /* findLCE.cpp */,
+				F3187ABF28E1906A00E111BE /* findLongestCommonSubsequence.cpp */,
+				F3187AF828E1906C00E111BE /* findLongestSubsequence.cpp */,
+				F3187ADB28E1906B00E111BE /* findMedianOfStream.cpp */,
+				F3187AEE28E1906B00E111BE /* findMedianOfStreamWithMultiSet.cpp */,
+				F3187ADE28E1906B00E111BE /* findMinSpanTree.cpp */,
+				F3187A8E28E1906900E111BE /* findMinSpanTreePrim.cpp */,
+				F3187AE628E1906B00E111BE /* findmsbofinteger.cpp */,
+				F3187ACA28E1906B00E111BE /* findShortestCut.cpp */,
+				F3187AEF28E1906B00E111BE /* FindSmallestSuperString.cpp */,
+				F3187AEB28E1906B00E111BE /* FindSmallestSuperString2.cpp */,
+				F3187A9128E1906900E111BE /* FlipStringToMonoInc.cpp */,
+				F3187AE228E1906B00E111BE /* floydshortestdistance.cpp */,
+				F3187AA528E1906A00E111BE /* foreach.cpp */,
+				F3187AC628E1906A00E111BE /* foreach2.cpp */,
+				F3187ACD28E1906B00E111BE /* functionpar.cpp */,
+				F3187AD028E1906B00E111BE /* functionpointer2.cpp */,
+				F3187AD428E1906B00E111BE /* functiontype.cpp */,
+				F3187ADD28E1906B00E111BE /* functor.cpp */,
+				F3187AF228E1906B00E111BE /* functor2.cpp */,
+				F3187ADA28E1906B00E111BE /* functortemplate.cpp */,
+				F3187A9A28E1906900E111BE /* future.cpp */,
+				F3187AC228E1906A00E111BE /* futureAndPromise.cpp */,
+				F3187ABE28E1906A00E111BE /* futureAnsPromise2.cpp */,
+				F3187AED28E1906B00E111BE /* globalvalue.cpp */,
+				F3187A9628E1906900E111BE /* gotoconsideredharmful.cpp */,
+				F3187AC528E1906A00E111BE /* graph.cpp */,
+				F3187A9428E1906900E111BE /* graph.h */,
+				F3187AA828E1906A00E111BE /* graphBreadth.cpp */,
+				F3187AB828E1906A00E111BE /* graphcolor.cpp */,
+				F3187AFB28E1906C00E111BE /* graphcreation.cpp */,
+				F3187AB928E1906A00E111BE /* graphcreation.h */,
+				F3187AA028E1906A00E111BE /* graphmaxflow.cpp */,
+				F3187AC128E1906A00E111BE /* graphTopologicalSort.cpp */,
+				F3187ADC28E1906B00E111BE /* hannoi.cpp */,
+				F3187AC328E1906A00E111BE /* harrypotterclass.cpp */,
+				F3187ACE28E1906B00E111BE /* hashtest.cpp */,
+				F3187A8A28E1902400E111BE /* test.cpp */,
 			);
 			sourceTree = "<group>";
 		};
