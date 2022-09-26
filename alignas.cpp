@@ -38,7 +38,4 @@ void alignasmain()
   cout << "alignas of arrCV.data: " << alignof(FixedCapacityArray<ColorVector>) << endl;
   cout << "alignas of arrCh.data: " << ((char*)(&av.data) - (char*)(&av)) << endl;
   cout << "alignas of arrCh.data 1: " << ((char*)(&av.data[1]) - (char*)(&av.data[0])) << endl;
-
-
-  
 }
